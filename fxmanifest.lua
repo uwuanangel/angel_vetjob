@@ -16,4 +16,4 @@ client_scripts {
 }
 
 
-dependency 'vorp_core'
+-- dependency 'vorp_core'
