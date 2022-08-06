@@ -1,4 +1,4 @@
-# Angel Vet Job
+# Vet Job
 
 This is a Vet Job ive been working on for a while, people with the job 'vet' will be able to access the Vet Shop Menu (Shown with a blip on the Map). They can then Purchase Pet Bandages and Horse Stimulants for $5 each. ( This is fully Customisable in server/main.lua).
 
