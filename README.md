@@ -17,4 +17,4 @@ add 'ensure angel_vetjob' into your Resource.cfg or Server.cfg.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-If you have any questions or need support feel free to Submit a ticket in: https://discord.gg/sleepyhollowroleplay
+If you have any questions or need support feel free to Submit a ticket in: https://discord.gg/RJGRzqAvGD
