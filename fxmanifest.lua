@@ -4,6 +4,11 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 author 'Angel'
 description 'Vet Job for RedM'
 
+shared_scripts {
+    'language.lua',
+    'languages/*.lua',
+    'config.lua'
+}
 
 server_scripts {
     'Config.lua',
