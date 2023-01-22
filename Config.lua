@@ -5,7 +5,7 @@ Config.GumCore = false
 
 Key = 0x760A9C6F -- G
 
-Config.Job = "horsetrainer" -- set job
+Config.Job = "vet" -- set job
 Config.price = 5 -- price of supplies
 Config.amount = 5 -- amount you receive
 
