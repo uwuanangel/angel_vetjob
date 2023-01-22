@@ -1,14 +1,19 @@
 # Vet Job
 
-This is a Vet Job ive been working on for a while, people with the job 'vet' will be able to access the Vet Shop Menu (Shown with a blip on the Map). They can then Purchase Pet Bandages and Horse Stimulants for $5 each. ( This is fully Customisable in server/main.lua).
+Vet Job Menu Script that allows people with the job 'vet' to access a menu to buy Items for Horses and Pets. (Job is Customisable in the Config)
 
-Please Note the Pet Bandages only work on Pets from any pet scripts. (I use Gum_Pets)
+All Items are optimised for Gum_Pets and Gum_Stables.
+
+Please Note the Pet Bandages only work on Pets from Gum_Pets and Horse Items only work for Gum_Stables
 
 You can add new locations with blips in the Config.lua.
 
-This Script is Dependant on VORP_CORE.
+This Script is Optimised for Vorp Core and Gum Core
 
-[If you wanted you could add a Vet Society with syn_society script for Job ranks, Hiring, Firing, Inventory and Salary.]
+Dependency: MenuApi
+
+![image](https://user-images.githubusercontent.com/106703423/213907104-77279926-d696-4a18-9bec-d8c9ca7fafed.png)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
